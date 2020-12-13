@@ -1,3 +1,6 @@
 /target/
 *.h5
 /bin/
+/.settings/
+.project
+.classpath
